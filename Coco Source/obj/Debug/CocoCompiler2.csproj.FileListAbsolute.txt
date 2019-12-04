@@ -1,0 +1,14 @@
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\obj\Debug\CocoCompiler2.csproj.CoreCompileInputs.cache
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\bin\Debug\CocoCompiler2.exe.config
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\bin\Debug\CocoCompiler2.exe
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\bin\Debug\CocoCompiler2.pdb
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\obj\Debug\CocoCompiler2.exe
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\obj\Debug\CocoCompiler2.pdb
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\obj\Debug\CocoCompiler2.csprojAssemblyReference.cache
+C:\Users\Mobin\Desktop\coco\c# project\bin\Debug\CocoCompiler2.exe.config
+C:\Users\Mobin\Desktop\coco\c# project\bin\Debug\CocoCompiler2.exe
+C:\Users\Mobin\Desktop\coco\c# project\obj\Debug\CocoCompiler2.csprojAssemblyReference.cache
+C:\Users\Mobin\Desktop\coco\c# project\obj\Debug\CocoCompiler2.csproj.CoreCompileInputs.cache
+C:\Users\Mobin\Desktop\coco\c# project\obj\Debug\CocoCompiler2.exe
+C:\Users\Mobin\Desktop\coco\c# project\obj\Debug\CocoCompiler2.pdb
+C:\Users\Mobin\Desktop\coco\c# project\bin\Debug\CocoCompiler2.pdb

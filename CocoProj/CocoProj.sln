@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocoProj", "CocoProj\CocoProj.csproj", "{77B6A35F-7A34-46D7-B3E2-A4E0EA3F0E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocoCompiler2", "C:\Users\Asus\Desktop\coco-master\coco-master\c# project\CocoCompiler2.csproj", "{6A8B192C-6216-4136-BB64-FA7905880517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B6A35F-7A34-46D7-B3E2-A4E0EA3F0E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B6A35F-7A34-46D7-B3E2-A4E0EA3F0E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B6A35F-7A34-46D7-B3E2-A4E0EA3F0E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B6A35F-7A34-46D7-B3E2-A4E0EA3F0E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8B192C-6216-4136-BB64-FA7905880517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8B192C-6216-4136-BB64-FA7905880517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8B192C-6216-4136-BB64-FA7905880517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8B192C-6216-4136-BB64-FA7905880517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA542CF-D327-4162-8B25-43A2953FA145}
+	EndGlobalSection
+EndGlobal
