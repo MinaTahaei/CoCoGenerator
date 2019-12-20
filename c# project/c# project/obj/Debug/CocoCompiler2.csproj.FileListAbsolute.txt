@@ -1,0 +1,26 @@
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\obj\Debug\CocoCompiler2.csproj.CoreCompileInputs.cache
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\bin\Debug\CocoCompiler2.exe.config
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\bin\Debug\CocoCompiler2.exe
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\bin\Debug\CocoCompiler2.pdb
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\obj\Debug\CocoCompiler2.exe
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\obj\Debug\CocoCompiler2.pdb
+C:\Users\Mobin\source\repos\CocoCompiler2\CocoCompiler2\obj\Debug\CocoCompiler2.csprojAssemblyReference.cache
+C:\Users\Mobin\Desktop\coco\c# project\bin\Debug\CocoCompiler2.exe.config
+C:\Users\Mobin\Desktop\coco\c# project\bin\Debug\CocoCompiler2.exe
+C:\Users\Mobin\Desktop\coco\c# project\obj\Debug\CocoCompiler2.csprojAssemblyReference.cache
+C:\Users\Mobin\Desktop\coco\c# project\obj\Debug\CocoCompiler2.csproj.CoreCompileInputs.cache
+C:\Users\Mobin\Desktop\coco\c# project\obj\Debug\CocoCompiler2.exe
+C:\Users\Mobin\Desktop\coco\c# project\obj\Debug\CocoCompiler2.pdb
+C:\Users\Mobin\Desktop\coco\c# project\bin\Debug\CocoCompiler2.pdb
+C:\Users\seyye\Desktop\coco-master\c# project\bin\Debug\CocoCompiler2.exe.config
+C:\Users\seyye\Desktop\coco-master\c# project\bin\Debug\CocoCompiler2.exe
+C:\Users\seyye\Desktop\coco-master\c# project\bin\Debug\CocoCompiler2.pdb
+C:\Users\seyye\Desktop\coco-master\c# project\obj\Debug\CocoCompiler2.csprojAssemblyReference.cache
+C:\Users\seyye\Desktop\coco-master\c# project\obj\Debug\CocoCompiler2.exe
+C:\Users\seyye\Desktop\coco-master\c# project\obj\Debug\CocoCompiler2.pdb
+C:\Users\Asus\Desktop\c# project\c# project\bin\Debug\CocoCompiler2.exe.config
+C:\Users\Asus\Desktop\c# project\c# project\bin\Debug\CocoCompiler2.exe
+C:\Users\Asus\Desktop\c# project\c# project\bin\Debug\CocoCompiler2.pdb
+C:\Users\Asus\Desktop\c# project\c# project\obj\Debug\CocoCompiler2.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# project\c# project\obj\Debug\CocoCompiler2.exe
+C:\Users\Asus\Desktop\c# project\c# project\obj\Debug\CocoCompiler2.pdb
