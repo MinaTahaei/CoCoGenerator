@@ -1,4 +1,8 @@
-static void CheckFunctionsParameters (int b,int a,int c,int d)
+static void Poop ()
+{
+}
+
+static void CheckFunctionsPoopy (int b,int a,int c,int d)
 {
 }
 
@@ -71,3 +75,4 @@ static void Check (int b,int a,int c,int d,int f)
 static void Checkssss (int b,int a,int c,int d,int f,int g)
 {
 }
+

@@ -114,20 +114,29 @@ namespace at.jku.ssw.Coco
                             int col = tokens[index - 1].col;
                             if (nextToken.kind != 31)
                             {
-                                index += 2;
+                                index += 1;
                                 nextToken = tokens[index];
-                                //Console.WriteLine(nextToken.val);
-                                int start = nextToken.col;
-                                stack.Push(nextToken);
-                                while (nextToken.kind != 31)
-                                {                                  
-                                    index++;
+                                if (nextToken.kind == 31)
+                                {
+                                    Console.WriteLine("Parameters of Function {0} are correct", functionName, line, col);
+                                }
+                                else
+                                {
+                                    index += 1;
                                     nextToken = tokens[index];
-                                    if (nextToken.kind == 41)
+                                    //Console.WriteLine(nextToken.val);
+                                    int start = nextToken.col;
+                                    stack.Push(nextToken);
+                                    while (nextToken.kind != 31)
                                     {
-                                        index += 2;
+                                        index++;
                                         nextToken = tokens[index];
-                                        stack.Push(nextToken);
+                                        if (nextToken.kind == 41)
+                                        {
+                                            index += 2;
+                                            nextToken = tokens[index];
+                                            stack.Push(nextToken);
+                                        }
                                     }
                                 }
                             }
@@ -140,7 +149,7 @@ namespace at.jku.ssw.Coco
                                     Console.WriteLine("Function {0}: in Line {1} and Col {2} has more than 4 Parameters.",
                                     functionName, line, col);
                                 }
-                                else
+                                else if (count != 0)
                                 {
                                     Console.WriteLine("Parameters of Function {0} are correct",functionName,line,col);
                                 }
