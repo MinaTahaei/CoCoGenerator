@@ -24,3 +24,9 @@ C:\Users\Asus\Desktop\c# project\c# project\bin\Debug\CocoCompiler2.pdb
 C:\Users\Asus\Desktop\c# project\c# project\obj\Debug\CocoCompiler2.csprojAssemblyReference.cache
 C:\Users\Asus\Desktop\c# project\c# project\obj\Debug\CocoCompiler2.exe
 C:\Users\Asus\Desktop\c# project\c# project\obj\Debug\CocoCompiler2.pdb
+E:\git\CoCoGenerator\c# project\c# project\bin\Debug\CocoCompiler2.exe.config
+E:\git\CoCoGenerator\c# project\c# project\bin\Debug\CocoCompiler2.exe
+E:\git\CoCoGenerator\c# project\c# project\bin\Debug\CocoCompiler2.pdb
+E:\git\CoCoGenerator\c# project\c# project\obj\Debug\CocoCompiler2.csprojAssemblyReference.cache
+E:\git\CoCoGenerator\c# project\c# project\obj\Debug\CocoCompiler2.exe
+E:\git\CoCoGenerator\c# project\c# project\obj\Debug\CocoCompiler2.pdb

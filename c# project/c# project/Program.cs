@@ -140,17 +140,22 @@ namespace at.jku.ssw.Coco
                                     Console.WriteLine("Function {0}: in Line {1} and Col {2} has more than 4 Parameters.",
                                     functionName, line, col);
                                 }
+                                else
+                                {
+                                    Console.WriteLine("Parameters of Function {0} are correct",functionName,line,col);
+                                }
                             }
                         }
                         
                     }
                 }
                 index += 1;
+                stack.Clear();
             }
         }
         static void Main(string[] args)
         {
-            string fileLocation = @"C:\Users\Asus\Desktop\c# project\sample.cs";
+            string fileLocation = @"E:\git\CoCoGenerator\c# project\sample.cs";
             // Using coco scanner
             Scanner scanner = new Scanner(fileLocation);
             int ind = 1;

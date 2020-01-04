@@ -1,5 +1,16 @@
+static void CheckFunctionsParameters (int b,int a,int c,int d)
+{
+}
 
- static void CheckFunctionsParameters (int b,int a,int c,int d,int f)
+static void CheckFunctions (int b,int a,int c)
+{
+}
+
+static void Main (string[] args)
+{
+}
+
+static void Check (int b,int a,int c,int d,int f)
         {
             int length = tokens.Count;
             int index = 0;
@@ -55,3 +66,8 @@
                 index += 1;
             }
         }
+
+
+static void Checkssss (int b,int a,int c,int d,int f,int g)
+{
+}
